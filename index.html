@@ -1,0 +1,48 @@
+<!-- Musaned Home Page (Root) -->
+<!-- This file is a copy of home_musaned.html, but renamed to index.html for root access -->
+<!-- All translation, header, footer, and main content included -->
+<!-- If you update home_musaned.html, update index.html as well -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Musaned - Home</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+
+<!-- Language Switcher -->
+<button class="lang-switcher-btn" onclick="switchLanguage()">العربية</button>
+
+<!-- Header Placeholder -->
+<div id="header-placeholder"></div>
+
+<!-- Main Content -->
+<div id="main-content"></div>
+
+<!-- Footer Placeholder -->
+<div id="footer-placeholder"></div>
+
+<!-- Load Components -->
+<script src="/js/components-loader.js" defer></script>
+<script src="/js/slider-image.js" defer></script>
+
+<!-- Load Translation System -->
+<script src="/js/i18n.js"></script>
+<script>
+// Load main content from home_musaned.html
+fetch('/html/home_musaned.html')
+  .then(r => r.text())
+  .then(html => {
+    // Extract only the main content between header/footer
+    const temp = document.createElement('div');
+    temp.innerHTML = html;
+    const main = temp.querySelector('.container');
+    if (main) document.getElementById('main-content').appendChild(main);
+    document.dispatchEvent(new Event('homeLoaded'));
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,516 @@
+{
+    "en": {
+        "direction": "ltr",
+        "hero": {
+            "tag": "MOHRE-COMPLIANT DOMESTIC SERVICES",
+            "title": "Support You Can Trust for Your Home",
+            "text": "Musaned simplifies domestic hiring in the UAE — with verified workers, clear pricing, MOHRE-approved contracts, and support at every step.",
+            "btnPrimary": "View Packages",
+            "btnSecondary": "Chat on WhatsApp",
+            "meta1": "Licensed Services",
+            "meta2": "Transparent Fees",
+            "meta3": "Ongoing Support"
+        },
+        "features": {
+            "feature1Title": "MOHRE Approved",
+            "feature1Text": "All contracts follow UAE regulations",
+            "feature2Title": "Clear Pricing",
+            "feature2Text": "No hidden costs or surprises",
+            "feature3Title": "Verified Workers",
+            "feature3Text": "Screened candidates from trusted agencies"
+        },
+        "services": {
+            "title": "Choose the Service That Fits Your Home",
+            "subtitle": "Flexible hours, temporary contracts or full sponsorship — Musaned offers clear options for every family.",
+            "flexible": {
+                "title": "Flexible Packages",
+                "desc": "Book by day, week, or month for cleaning, cooking and general help.",
+                "item1": "Half-day & full-day options",
+                "item2": "Ideal for apartments & villas",
+                "item3": "Pay only for what you need",
+                "btn": "View Flexible"
+            },
+            "temporary": {
+                "title": "Temporary (2 Years)",
+                "desc": "Musaned remains the sponsor while the worker lives with your family.",
+                "item1": "MOHRE contracts included",
+                "item2": "Monthly billing & support",
+                "item3": "Replacement options available",
+                "btn": "View Temporary"
+            },
+            "traditional": {
+                "title": "Traditional Packages",
+                "desc": "We handle recruitment and transfer of sponsorship to you.",
+                "item1": "One-time package fees",
+                "item2": "Guidance on all procedures",
+                "item3": "Long-term solution for families",
+                "btn": "View Traditional"
+            }
+        },
+        "popularServices": {
+            "title": "Popular Services",
+            "subtitle": "A quick look at some of the most requested Musaned services.",
+            "service1Title": "Daily Maid – 8 Hours",
+            "service1Desc": "Ideal for deep cleaning and regular upkeep.",
+            "service1Price": "From AED 200 / day (AED 210 incl. VAT)",
+            "service2Title": "Flexible Monthly – 30 Days",
+            "service2Desc": "For families needing consistent help every day.",
+            "service2Price": "From AED 2800 / month (AED 2,950 incl. VAT)",
+            "service3Title": "Traditional – Philippines",
+            "service3Desc": "Full sponsorship package for long-term support.",
+            "service3Price": "From AED 12,600 + VAT",
+            "btnViewPricing": "View Full Pricing"
+        },
+        "whyChoose": {
+            "title": "Why Families Choose Musaned",
+            "reason1Title": "Clear Communication",
+            "reason1Text": "Our team explains every step in simple terms – in Arabic or English.",
+            "reason2Title": "Ethical & Safe",
+            "reason2Text": "We care about families and workers, ensuring fair and safe conditions for all.",
+            "reason3Title": "Local Expertise",
+            "reason3Text": "We understand UAE regulations and processes so you don't have to stress about them."
+        },
+        "cta": {
+            "title": "Ready to Get Started?",
+            "subtitle": "Share your details and our team will recommend the best Musaned package for your home.",
+            "btn": "WhatsApp Us"
+        },
+        "contact": {
+            "callbackTitle": "Request a Call Back",
+            "callbackSubtitle": "Share your details and our team will recommend the best Musaned package for your home.",
+            "fullName": "Full Name",
+            "mobile": "Mobile Number",
+            "serviceType": "Service Type",
+            "selectOption": "Select an option",
+            "message": "Anything we should know?",
+            "btnSubmit": "Request a Call Back",
+            "officeTitle": "Visit Our Office",
+            "officeSubtitle": "Find us easily in Ras Al Khaimah.",
+            "location": "Location:",
+            "locationValue": "Ras Al Khaimah, UAE",
+            "phone": "Phone:",
+            "btnWhatsApp": "Chat on WhatsApp"
+        },
+        "header": {
+            "home": "Home",
+            "contact": "Contact us",
+            "services": "Services",
+            "events": "Events"
+        },
+        "footer": {
+            "usefulLinks": "Useful Links",
+            "home": "Home",
+            "services": "Services",
+            "privacy": "Privacy Policy",
+            "aboutTitle": "About Musaned",
+            "aboutText1": "Musaned helps families in the UAE hire trusted domestic workers with clear documentation, MOHRE-compliant contracts, transparent support and ongoing guidance at every step.",
+            "aboutText2": "Whether you need flexible help, a temporary live-in worker or full sponsorship transfer, we ensure a smooth, compliant experience.",
+            "contactTitle": "Contact Us",
+            "copyright": "© 2025 Musaned • All Rights Reserved",
+            "langArabic": "العربية",
+            "langEnglish": "English (US)"
+        },
+        "servicesPage": {
+            "pageTitle": "Services & Packages",
+            "pageIntro": "Musaned offers flexible, temporary and traditional domestic worker solutions with MOHRE-compliant contracts, clear terms and ongoing support for your family.",
+            "nav": {
+                "flexible": "Flexible (pay-as-you-go)",
+                "temporary": "Temporary (2 years)",
+                "traditional": "Traditional sponsorship"
+            },
+            "flexible": {
+                "sectionTitle": "Flexible Packages",
+                "lead": "Pay-as-you-go help for homes that need short-term or rotating support – ideal if your needs change week to week or you want to test support before committing.",
+                "card1": {
+                    "badge": "Most requested",
+                    "title": "Daily Home Help",
+                    "desc": "A full day of help for cleaning, laundry and general housework.",
+                    "item1": "Professional housekeeper for a single day",
+                    "item2": "Ideal for deep cleaning, move-in / move-out, or guests",
+                    "item3": "Available across multiple nationalities",
+                    "note": "Tell us your preferred days and timings – we'll match a worker to your family."
+                },
+                "card2": {
+                    "title": "Weekly Schedule",
+                    "desc": "The same worker on fixed days each week, so your home stays on track.",
+                    "item1": "Set recurring days and hours (e.g. 3× per week)",
+                    "item2": "Helps with regular cleaning, ironing and basic support",
+                    "item3": "Managed under Musaned sponsorship",
+                    "note": "Perfect for apartments and villas that need regular support but not a full-time live-in."
+                },
+                "card3": {
+                    "title": "Monthly & Longer Flexible",
+                    "desc": "Ongoing flexible help for homes that want routine support without a long contract.",
+                    "item1": "Monthly, 6-month or 12-month flexible arrangements",
+                    "item2": "Same worker assigned as consistently as possible",
+                    "item3": "Support for cleaning, light cooking and household tasks",
+                    "note": "We'll tailor the schedule and nationality options to your family's needs."
+                },
+                "cta": "Talk to us about Flexible Packages"
+            },
+            "temporary": {
+                "sectionTitle": "Temporary Packages (2 Years)",
+                "lead": "Live-in domestic workers under Musaned sponsorship for up to 2 years. We handle all documentation, visas, medicals, health insurance and salary processing – so your family gets reliable support without the admin headache.",
+                "card1": {
+                    "title": "Fully Managed Sponsorship",
+                    "desc": "We remain the sponsor and take care of every legal and financial detail.",
+                    "item1": "MOHRE-compliant contracts in Arabic & English",
+                    "item2": "Visa processing, entry permits and renewals handled by Musaned",
+                    "item3": "Healthcare, medicals and insurance arranged for the worker",
+                    "item4": "Salary processing and documentation managed through us",
+                    "note": "Your role is to welcome her into your home and treat her well – we take care of the paperwork and ongoing compliance."
+                },
+                "card2": {
+                    "title": "Smooth Onboarding & Follow-up",
+                    "desc": "From the time you choose a profile until she settles into your routine, our team stays involved.",
+                    "item1": "Profile selection and matching based on your household needs",
+                    "item2": "Clear expectations explained to both family and worker",
+                    "item3": "Support during the first months to ensure a good fit",
+                    "item4": "Replacement options available according to package terms",
+                    "note": "We guide you through each step so you always know what is happening."
+                },
+                "card3": {
+                    "title": "Peace of Mind for Your Family",
+                    "desc": "Temporary packages are ideal if you want full-time help, but prefer Musaned to remain responsible for documentation and payments.",
+                    "item1": "No need to navigate government systems or labour portals alone",
+                    "item2": "Transparent explanation of rights, duties and timelines",
+                    "item3": "Local support team in the UAE if you have questions or issues",
+                    "note": "You focus on your family – we focus on making sure everything is compliant and up to date."
+                },
+                "cta": "Ask about Temporary (2-Year) Packages"
+
+                
+            },
+            "traditional": {
+                "sectionTitle": "Traditional Sponsorship Packages",
+                "lead": "Full sponsorship transfer to your family, with Musaned guiding you through recruitment, documentation and arrival so everything is compliant from day one.",
+                "card1": {
+                    "title": "New Recruitment",
+                    "desc": "Hire a worker from abroad under your own sponsorship with Musaned managing the process.",
+                    "item1": "End-to-end recruitment coordination with licensed partners",
+                    "item2": "Visa processing and MOHRE-compliant contracts",
+                    "item3": "Guidance on arrival, medicals and Emirates ID steps",
+                    "note": "Best for families planning long-term support and wanting a fresh recruitment."
+                },
+                "card2": {
+                    "title": "Transfer of Sponsorship",
+                    "desc": "Move an existing worker's sponsorship into your name with clear paperwork and timelines.",
+                    "item1": "Support with approvals, contracts and documentation",
+                    "item2": "Clear explanation of fees, timelines and obligations",
+                    "item3": "Arabic & English support throughout the process",
+                    "note": "Ideal if you've already found someone and need a clean, legal transfer."
+                },
+                "card3":{
+                    "title": "Advisory & Compliance Support",
+                    "desc": "Already have a worker but need clarity on MOHRE rules or next steps?",
+                    "item1": "Advice on contract renewal, end-of-service and exits",
+                    "item2": "Guidance on rights, responsibilities and documentation",
+                    "item3": "Helps avoid costly mistakes or non-compliance",
+                    "note": "Speak to us before making changes – we'll walk you through the safest route."
+                },
+                "cta": "Discuss Traditional Sponsorship Options"
+            },
+            "roles": {
+                "sectionTitle": "Support Tailored to Your Home",
+                "lead": "Every family is different. Musaned can match you with workers whose experience fits what your home needs most – from childcare and cleaning to cooking and elderly support.",
+                "card1": {
+                    "title": "Childcare Nanny",
+                    "desc": "For families with babies or young children who need an extra pair of hands.",
+                    "item1": "Support with feeding, bathing and bedtime routines",
+                    "item2": "Light playtime and supervision at home",
+                    "item3": "Can combine with basic household tasks",
+                    "note": "Tell us your children's ages and daily routine – we'll suggest suitable profiles."
+                },
+                "card2": {
+                    "title": "Housekeeper / Cleaner",
+                    "desc": "For villas and apartments that need consistent cleaning and organisation.",
+                    "item1": "Daily cleaning, dusting, mopping and laundry",
+                    "item2": "Bed-making and basic home organisation",
+                    "item3": "Can work in flexible, temporary or traditional packages",
+                    "note": "Ideal if your main priority is a clean, well-maintained home."
+                },
+                "card3": {
+                    "title": "Cook / Home Chef",
+                    "desc": "For families that want regular help with cooking and kitchen preparation.",
+                    "item1": "Meal preparation, light cooking and kitchen clean-up",
+                    "item2": "Support with grocery organisation and basic planning",
+                    "item3": "Can combine with light housekeeping, depending on your needs",
+                    "note": "Let us know your preferred cuisine and meal times so we can match accordingly."
+                },
+                "card4": {
+                    "title": "Elderly Care Companion",
+                    "desc": "For elderly parents or relatives who need patient daily support at home.",
+                    "item1": "Companionship, light assistance and household help",
+                    "item2": "Support with daily routines (as agreed) – non-medical",
+                    "item3": "Works alongside your family's existing medical care",
+                    "note": "We discuss your relative's condition and build a realistic support plan together."
+                },
+                "cta": "Tell us what your home needs"
+            }
+        }
+    },
+    "ar": {
+        "direction": "rtl",
+        "hero": {
+            "tag": "خدمات عمالية منزلية متوافقة مع وزارة الموارد البشرية",
+            "title": "دعم يمكنك الوثوق به لمنزلك",
+            "text": "مساند تسهّل عليك استقدام العمالة المنزلية في دولة الإمارات، من خلال عمالة موثوقة، أسعار واضحة، عقود معتمدة من الوزارة، ودعم مستمر في كل خطوة.",
+            "btnPrimary": "عرض الباقات",
+            "btnSecondary": "تواصل عبر واتساب",
+            "meta1": "خدمات مرخصة",
+            "meta2": "رسوم واضحة",
+            "meta3": "دعم مستمر",
+            "slide1": {
+                "title": "متاح باقات عقود متعددة للعقود <span class=\"ar-colored-text-span\">الفلبينية</span>",
+                "text": ""
+            },
+            "slide2": {
+                "title": "ابدأ عام 2026 براحة البال مع <span class=\"ar-colored-text-span\">مساندتك الفلبينية</span>",
+                "text": "بـ <span class=\"ar-colored-span\">10500</span> شاملة الضريبة"
+            },
+            "slide3": {
+                "title": "عروض رأس السنة من <span class=\"ar-colored-text-span\">مساند</span>",
+                "text": "العقود الكينية والأوغندية بـ <span class=\"ar-colored-span\">4500</span> فقط."
+            },
+            "slide4": {
+                "title": "من داخل الدولة، جاهزات للعمل فورًا.",
+                "text": " مينامار 🇲🇲 إثيوبيا 🇪🇹 سيرلانكا 🇱🇰 كينيا 🇰🇪"
+            }
+        },
+        "features": {
+            "feature1Title": "معتمد من وزارة الموارد البشرية",
+            "feature1Text": "جميع العقود تتبع أنظمة دولة الإمارات",
+            "feature2Title": "أسعار واضحة",
+            "feature2Text": "لا توجد تكاليف خفية أو مفاجآت",
+            "feature3Title": "عمالة موثوقة",
+            "feature3Text": "مرشحون تم فحصهم من وكالات موثوقة"
+        },
+        "services": {
+            "title": "اختر الخدمة المناسبة لمنزلك",
+            "subtitle": "ساعات مرنة، عقود مؤقتة أو كفالة كاملة — مساند يوفر خيارات واضحة لكل عائلة.",
+            "flexible": {
+                "title": "الباقات المرنة",
+                "desc": "احجز باليوم أو الأسبوع أو الشهر للتنظيف والطبخ والمساعدة العامة.",
+                "item1": "خيارات نصف يوم ويوم كامل",
+                "item2": "مثالي للشقق والفلل",
+                "item3": "ادفع فقط لما تحتاجه",
+                "btn": "عرض المرن"
+            },
+            "temporary": {
+                "title": "مؤقت (سنتان)",
+                "desc": "مساند يبقى الكفيل بينما يعيش العامل مع عائلتك.",
+                "item1": "عقود وزارة الموارد البشرية مشمولة",
+                "item2": "فواتير شهرية ودعم",
+                "item3": "خيارات بديلة متاحة",
+                "btn": "عرض المؤقت"
+            },
+            "traditional": {
+                "title": "الباقات التقليدية",
+                "desc": "نتولى التوظيف ونقل الكفالة إليك.",
+                "item1": "رسوم باقة لمرة واحدة",
+                "item2": "إرشاد في جميع الإجراءات",
+                "item3": "حل طويل الأمد للعائلات",
+                "btn": "عرض التقليدي"
+            }
+        },
+        "popularServices": {
+            "title": "الخدمات الشائعة",
+            "subtitle": "نظرة سريعة على بعض خدمات مساند الأكثر طلبًا.",
+            "service1Title": "خادمة يومية – 8 ساعات",
+            "service1Desc": "مثالية للتنظيف العميق والصيانة الدورية.",
+            "service1Price": "من 200 درهم / يوم (210 درهم شامل الضريبة)",
+            "service2Title": "مرن شهريًا – 30 يومًا",
+            "service2Desc": "للعائلات التي تحتاج إلى مساعدة يومية ثابتة.",
+            "service2Price": "من 2800 درهم / شهر (2,950 درهم شامل الضريبة)",
+            "service3Title": "تقليدي – الفلبين",
+            "service3Desc": "باقة كفالة كاملة للدعم طويل الأمد.",
+            "service3Price": "من 12,600 درهم + ضريبة",
+            "btnViewPricing": "عرض الأسعار الكاملة"
+        },
+        "whyChoose": {
+            "title": "لماذا تختار العائلات مساند",
+            "reason1Title": "تواصل واضح",
+            "reason1Text": "فريقنا يشرح كل خطوة بمصطلحات بسيطة – بالعربية أو الإنجليزية.",
+            "reason2Title": "أخلاقي وآمن",
+            "reason2Text": "نهتم بالعائلات والعمال، ونضمن ظروفًا عادلة وآمنة للجميع.",
+            "reason3Title": "خبرة محلية",
+            "reason3Text": "نفهم أنظمة وإجراءات الإمارات حتى لا تقلق بشأنها."
+        },
+        "cta": {
+            "title": "جاهز للبدء؟",
+            "subtitle": "شاركنا تفاصيلك وسيوصي فريقنا بأفضل باقة مساند لمنزلك.",
+            "btn": "راسلنا عبر واتساب"
+        },
+        "contact": {
+            "callbackTitle": "طلب معاودة الاتصال",
+            "callbackSubtitle": "شاركنا تفاصيلك وسيوصي فريقنا بأفضل باقة مساند لمنزلك.",
+            "fullName": "الاسم الكامل",
+            "mobile": "رقم الجوال",
+            "serviceType": "نوع الخدمة",
+            "selectOption": "اختر خيارًا",
+            "message": "هل هناك شيء يجب أن نعرفه؟",
+            "btnSubmit": "طلب معاودة الاتصال",
+            "officeTitle": "زيارة مكتبنا",
+            "officeSubtitle": "اعثر علينا بسهولة في رأس الخيمة.",
+            "location": "الموقع:",
+            "locationValue": "رأس الخيمة، الإمارات",
+            "phone": "الهاتف:",
+            "btnWhatsApp": "تواصل عبر واتساب"
+        },
+        "header": {
+            "home": "الرئيسية",
+            "contact": "اتصل بنا",
+            "services": "الخدمات",
+            "events": "الفعاليات"
+        },
+        "footer": {
+            "usefulLinks": "روابط مفيدة",
+            "home": "الرئيسية",
+            "services": "الخدمات",
+            "privacy": "سياسة الخصوصية",
+            "aboutTitle": "عن مساند",
+            "aboutText1": "مساند تساعد العائلات في الإمارات على توظيف عمالة منزلية موثوقة مع وثائق واضحة، عقود متوافقة مع وزارة الموارد البشرية، دعم شفاف وإرشاد مستمر في كل خطوة.",
+            "aboutText2": "سواء كنت تحتاج إلى مساعدة مرنة، أو عامل مؤقت يعيش معك، أو نقل كفالة كامل، نحن نضمن تجربة سلسة ومتوافقة.",
+            "contactTitle": "اتصل بنا",
+            "copyright": "© 2025 مساند • جميع الحقوق محفوظة",
+            "langArabic": "العربية",
+            "langEnglish": "English (US)"
+        },
+        "servicesPage": {
+            "pageTitle": "الخدمات والباقات",
+            "pageIntro": "مساند توفر حلولًا مرنة ومؤقتة وتقليدية للعمالة المنزلية بعقود متوافقة مع وزارة الموارد البشرية، شروط واضحة ودعم مستمر لعائلتك.",
+            "nav": {
+                "flexible": "المرن (ادفع حسب الاستخدام)",
+                "temporary": "مؤقت (سنتان)",
+                "traditional": "الكفالة التقليدية"
+            },
+            "flexible": {
+                "sectionTitle": "الباقات المرنة",
+                "lead": "مساعدة بالدفع عند الاستخدام للعائلات التي تحتاج دعمًا قصير الأمد أو متغيرًا — مثالي إذا كانت احتياجاتك تتغير أسبوعًا بعد أسبوع.",
+                "card1": {
+                    "badge": "الأكثر طلبًا",
+                    "title": "مساعدة منزلية يومية",
+                    "desc": "يوم كامل من المساعدة للتنظيف والغسيل والأعمال المنزلية العامة.",
+                    "item1": "مدبرة منزل محترفة ليوم واحد",
+                    "item2": "مثالي للتنظيف العميق أو الانتقال أو الضيوف",
+                    "item3": "متاح من عدة جنسيات",
+                    "note": "أخبرنا بأيامك وتوقيتك المفضل – سنطابق لك عاملاً مناسبًا."
+                },
+                "card2": {
+                    "title": "جدول أسبوعي",
+                    "desc": "نفس العاملة في أيام محددة كل أسبوع للحفاظ على ترتيب منزلك.",
+                    "item1": "تحديد أيام وساعات متكررة (مثال: 3× أسبوعيًا)",
+                    "item2": "مساعدة في التنظيف والكي والدعم الأساسي",
+                    "item3": "تحت كفالة مساند",
+                    "note": "مثالي للشقق والفلل التي تحتاج دعمًا منتظمًا دون كفالة بدوام كامل."
+                },
+                "card3": {
+                    "title": "مرن شهريًا وأطول",
+                    "desc": "مساعدة مرنة مستمرة للعائلات التي تريد دعمًا روتينيًا بدون عقد طويل.",
+                    "item1": "ترتيبات شهرية أو لمدة 6 أو 12 شهرًا",
+                    "item2": "نفس العاملة تُعيَّن بشكل ثابت قدر الإمكان",
+                    "item3": "دعم للتنظيف والطهي الخفيف والمهام المنزلية",
+                    "note": "سنُفصِّل الجدول وخيارات الجنسية وفقًا لاحتياجات عائلتك."
+                },
+                "cta": "تواصل معنا بشأن الباقات المرنة"
+            },
+            "temporary": {
+                "sectionTitle": "باقات مؤقتة (سنتان)",
+                "lead": "عمالة منزلية مقيمة تحت كفالة مساند لمدة تصل إلى سنتين. نتولى جميع الوثائق والتأشيرات والفحوصات والتأمين والرواتب حتى تحصل عائلتك على دعم موثوق بدون عبء إداري.",
+                "card1": {
+                    "title": "كفالة مُدارة بالكامل",
+                    "desc": "نبقى الكفيل ونتولى كل التفاصيل القانونية والمالية.",
+                    "item1": "عقود متوافقة مع الوزارة بالعربية والإنجليزية",
+                    "item2": "معالجة التأشيرات وتصاريح الدخول والتجديدات",
+                    "item3": "التأمين الصحي والفحوصات للعامل",
+                    "item4": "معالجة الرواتب والوثائق عبرنا",
+                    "note": "دورك هو الترحيب بها في منزلك ومعاملتها جيدًا – نحن نتولى الأوراق والامتثال المستمر."
+                },
+                "card2": {
+                    "title": "توظيف سلس ومتابعة",
+                    "desc": "من وقت اختيارك للملف حتى استقرارها في روتينك، يظل فريقنا مشاركًا.",
+                    "item1": "اختيار الملف والمطابقة بناءً على احتياجات منزلك",
+                    "item2": "توضيح التوقعات لكل من العائلة والعاملة",
+                    "item3": "دعم خلال الأشهر الأولى لضمان توافق جيد",
+                    "item4": "خيارات بديلة متاحة وفقًا لشروط الباقة",
+                    "note": "نرشدك خلال كل خطوة حتى تعرف دائمًا ما يحدث."
+                },
+                "card3": {
+                    "title": "راحة البال لعائلتك",
+                    "desc": "الباقات المؤقتة مثالية إذا كنت تريد مساعدة بدوام كامل، ولكن تفضل أن تظل مساند مسؤولة عن الوثائق والمدفوعات.",  
+                    "item1": "لا حاجة للتنقل في أنظمة الحكومة أو بوابات العمل بمفردك",
+                    "item2": "شرح شفاف للحقوق والواجبات والجداول الزمنية",
+                    "item3": "فريق دعم محلي في الإمارات إذا كانت لديك أسئلة أو مشكلات",
+                    "note": "أنت تركز على عائلتك – ونحن نركز على ضمان أن كل شيء متوافق ومحدث."
+                },
+                "cta": "استفسر عن الباقات المؤقتة (لمدة عامين)"
+            },
+            "traditional": {
+                "sectionTitle": "باقات الكفالة التقليدية",
+                "lead": "نقل الكفالة الكامل لعائلتك مع توجيه مساند في التوظيف والوثائق والوصول لضمان الامتثال من اليوم الأول.",
+                "card1": {
+                    "title": "توظيف جديد",
+                    "desc": "توظيف عامل من الخارج تحت كفالتك مع إدارة مساند للعملية.",
+                    "item1": "تنسيق توظيف شامل مع شركاء مرخصين",
+                    "item2": "معالجة التأشيرات وعقود متوافقة",
+                    "item3": "إرشاد حول الوصول والفحوصات والهوية الإماراتية"
+                },
+                "card2": {
+                    "title": "نقل الكفالة",
+                    "desc": "نقل كفالة عاملة حالية إلى اسمك مع أوراق واضحة وجداول زمنية.",
+                    "item1": "دعم بالموافقات والعقود والوثائق",
+                    "item2": "شرح واضح للرسوم والجداول الزمنية والالتزامات",
+                    "item3": "دعم بالعربية والإنجليزية طوال العملية",
+                    "note": "مثالي إذا كنت قد وجدت شخصًا بالفعل وتحتاج إلى نقل قانوني نظيف."
+                },
+                "card3":{
+                    "title": "استشارات ودعم الامتثال",
+                    "desc": "هل لديك عاملة بالفعل ولكنك بحاجة إلى وضوح حول قواعد الوزارة أو الخطوات التالية؟",
+                    "item1": "نصائح حول تجديد العقد، نهاية الخدمة والمخارج",
+                    "item2": "إرشاد حول الحقوق والمسؤوليات والوثائق",
+                    "item3": "يساعد في تجنب الأخطاء المكلفة أو عدم الامتثال",
+                    "note": "تحدث معنا قبل إجراء تغييرات – سنرشدك خلال الطريق الأكثر أمانًا."
+                },
+                "cta": "ناقش خيارات الكفالة التقليدية"
+            },
+            "roles": {
+                "sectionTitle": "دعم مناسب لمنزلك",
+                "lead": "كل عائلة مختلفة. مساند تطابقك مع عاملين ذوي خبرات تناسب احتياجات منزلك – من رعاية الأطفال والتنظيف إلى الطهي ودعم كبار السن.",
+                "card1": {
+                    "title": "مربية أطفال",
+                    "desc": "للعائلات التي تحتاج مساعدة مع الأطفال الصغار.",
+                    "item1": "دعم في التغذية والاستحمام وروتين النوم",
+                    "item2": "وقت لعب خفيف والإشراف",
+                    "item3": "يمكن دمجه مع مهام منزلية أساسية",
+                    "note": "أخبرنا أعمار أطفالك وروتينهم اليومي وسنقترح ملفات مناسبة."
+                },
+                "card2": {
+                    "title": "منظف/مدبرة منزل",
+                    "desc": "للفلل والشقق التي تحتاج تنظيفًا وتنظيمًا مستمرًا.",
+                    "item1": "تنظيف يومي، كنس، ومسح وغسيل",
+                    "item2": "ترتيب الأسرة وتنظيم المنزل",
+                    "item3": "يمكن أن يعمل ضمن باقات مرنة أو مؤقتة أو تقليدية",
+                    "note": "مثالي إذا كان هدفك الرئيسي هو منزل نظيف ومعتنى به."
+                },
+                "card3": {
+                    "title": "طباخ/شيف منزلي",
+                    "desc": "للعائلات التي تريد مساعدة منتظمة في الطهي.",
+                    "item1": "تحضير الوجبات وطهي خفيف وتنظيف المطبخ",
+                    "item2": "مساعدة في تنظيم مشتريات البقالة والتخطيط الأساسي",
+                    "item3": "يمكن الدمج مع أعمال منزلية خفيفة حسب الاحتياج",
+                    "note": "أخبرنا المأكولات المفوضلة ومواعيد الوجبات لنوفر مطابقة أدق."
+                },
+                "card4": {
+                    "title": "مرافق رعاية كبار السن",
+                    "desc": "للوالدين أو الأقارب المسنين الذين يحتاجون دعمًا يوميًا صبورًا في المنزل.",
+                    "item1": "رفقة، مساعدة خفيفة ومساعدة منزلية",
+                    "item2": "دعم في الروتين اليومي (حسب الاتفاق) – غير طبي",
+                    "item3": "يعمل جنبًا إلى جنب مع الرعاية الطبية القائمة لعائلتك",
+                    "note": "نناقش حالة قريبك ونبني خطة دعم واقعية معًا."
+                },
+                "cta": "أخبرنا بما يحتاجه منزلك"
+            }
+            
+        }
+    }
+}
