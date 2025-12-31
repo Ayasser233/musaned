@@ -1,4 +1,17 @@
+function setResponsiveBackgrounds() {
+  const isMobile = window.innerWidth <= 768;
+  document.querySelectorAll('.hero-slide').forEach(slide => {
+    const desktopImg = slide.dataset.bgDesktop || slide.dataset.bg;
+    const mobileImg = slide.dataset.bgMobile;
+    const imageToUse = isMobile && mobileImg ? mobileImg : desktopImg;
+    if (imageToUse) {
+      slide.style.backgroundImage = `url('${imageToUse}')`;
+    }
+  });
+}
+
 function initializeHeroSlider() {
+  setResponsiveBackgrounds();
   const slides = document.querySelectorAll('.hero-slide');
   const dotsContainer = document.querySelector('.hero-dots');
   const prevBtn = document.querySelector('.hero-arrow.prev');
@@ -58,6 +71,7 @@ function initializeHeroSlider() {
     clearInterval(interval);
     startAutoSlide();
   }
+  
 
   startAutoSlide();
   // For debug
@@ -66,3 +80,4 @@ function initializeHeroSlider() {
 
 document.addEventListener('DOMContentLoaded', initializeHeroSlider);
 document.addEventListener('homeLoaded', initializeHeroSlider);
+window.addEventListener('resize', setResponsiveBackgrounds);
