@@ -72,6 +72,26 @@ body {
   }
 }
 
+/* Mobile adjustments for WhatsApp button */
+@media (max-width: 768px) {
+  .whatsapp-float {
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .whatsapp-float svg {
+    width: 35px;
+    height: 35px;
+  }
+
+  [dir="rtl"] .whatsapp-float {
+    right: auto;
+    left: 20px;
+  }
+}
+
 /* Language Switcher Button */
 .lang-switcher-btn {
   position: fixed;
